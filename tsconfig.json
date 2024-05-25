@@ -1,8 +1,9 @@
 {
 	"compilerOptions": {
-		"outDir": "dist/",
-		"rootDir": "src/",
 		"module": "NodeNext",
+		"rootDir": "src/",
+		"outDir": "dist/",
+		"declaration": true,
 		"strict": true
 	}
 }
